@@ -1,4 +1,4 @@
-JOHN SANTORO's changes
+JOHN SANTORO's changes via RHJDV
 
 Red Hat Cool Store Microservice Demo [![Build Status](https://travis-ci.org/jbossdemocentral/coolstore-microservice.svg?branch=master)](https://travis-ci.org/jbossdemocentral/coolstore-microservice)
 ====================================
