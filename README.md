@@ -1,4 +1,5 @@
 JOHN SANTORO's changes via Red Hat Developer Studio
+Build test
 
 Red Hat Cool Store Microservice Demo [![Build Status](https://travis-ci.org/jbossdemocentral/coolstore-microservice.svg?branch=master)](https://travis-ci.org/jbossdemocentral/coolstore-microservice)
 ====================================
