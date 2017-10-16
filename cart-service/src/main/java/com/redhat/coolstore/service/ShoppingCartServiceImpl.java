@@ -1,5 +1,6 @@
 /***
  *** Modified by JJS to experiment with JDG
+ *** 10-16-17
  ***/
 
 package com.redhat.coolstore.service;
