@@ -1,3 +1,7 @@
+/***
+ *** Modified by JJS to experiment with JDG
+ ***/
+
 package com.redhat.coolstore.service;
 
 import com.redhat.coolstore.model.kie.Product;
